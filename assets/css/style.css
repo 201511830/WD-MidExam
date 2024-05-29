@@ -1,0 +1,17 @@
+.tab {display: inline-block;
+  margin-left: 100px;}
+.tab1 {display: inline-block;
+    margin-left: 45px;}
+.tab2 {display: inline-block;
+      margin-left: 40px;}
+.tab3 {display: inline-block;
+      margin-left: 90px;}
+
+.tab4 {display: inline-block;
+      margin-left: 110px;}
+body{
+  background-image: url(https://images.crowdspring.com/blog/wp-content/uploads/2023/05/16174534/bakery-hero.png);
+  color: white
+}
+h1{font-size: 40px}
+h2{font-size:50px}
